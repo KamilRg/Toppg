@@ -1,0 +1,198 @@
+
+ body {
+   
+    background: linear-gradient(to left,#614a38,#A27c5e,#614a38);
+
+}
+ 
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.wrapper {
+    max-width: 1000px;
+    margin:0 auto;
+}
+img.left {
+    float:left;
+    margin: 10px 10px 10px 0;
+    width:25%;
+    height:25%;
+    border-radius: 50%;
+    border: 2px solid #614a38;
+}
+article{
+    margin-top: 30px;
+    margin-bottom:20px;
+    padding: 0 20px;
+}
+article h1{
+    font-size:35px;
+    text-align: center;
+    margin: 0 10% 20px 10%;
+    padding-bottom:15px;
+    border-bottom:2px solid #614a38;
+}
+article p{
+    text-align: justify center;
+    font-size:24px;
+    line-height: 25px; 
+    
+}
+.LogoImg{
+    
+    display: block;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 12%;
+    border-radius: 25px;
+    border: 2px solid #614a38;
+}
+
+.ItemsOnPage1:hover{
+    background:linear-gradient(to right,#614a38,#A27c5e,#614a38);
+    cursor: pointer;
+}
+.ItemsOnPage:hover{
+    background:linear-gradient(to right,#614a38,#A27c5e,#614a38);
+    cursor: pointer;
+}
+.btnHome:hover{
+    background:linear-gradient(to right,#614a38,#A27c5e,#614a38);
+    cursor: pointer;
+}
+
+.ItemsOnPage{
+    text-shadow: 0 1px 1px #614a38;
+    font-size: 20px;
+    margin-top:2%;
+    margin-left: 10%;
+    justify-items: center;
+    display: inline-block;
+    text-align: center;
+    padding: 15px 20px;
+    border:1.2px solid #614a38;
+    width: 20%;
+    color:black;
+    background:linear-gradient(to top,#614a38,#A27c5e,#614a38);
+    
+}
+.btnHome{
+    padding:8px;
+    text-shadow: 0 1px 1px #614a38;
+    font-size: 20px;
+    background:linear-gradient(to top,#614a38,#A27c5e,#614a38);
+    border:2px solid #614a38;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    margin-top:-1;
+}
+/*Gallery*/
+label[for] {
+    cursor: pointer;
+  }
+  
+  input[type="checkbox"] {
+    display: none;
+  }
+  
+  .lightbox {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    min-height: 100%;
+    z-index: 1;
+    overflow: auto;
+    -webkit-transform: scale(0);
+    -ms-transform: scale(0);
+    transform: scale(0);
+    -webkit-transition: -webkit-transform 0.75s ease-out;
+    transition: transform 0.75s ease-out;
+  }
+  
+  
+  .lightbox img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+  
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    max-width: 100%;
+    max-height: 100%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25);
+  }
+  
+  input[type="checkbox"]:checked + .lightbox {
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+  }
+  
+  input[type="checkbox"]:checked ~ .grid {
+    opacity: 0.125;
+  }
+  
+  .grid1 {
+    width: 100%;
+    position: relative;
+    top: 0;
+    left: -5vh;
+    height: 100vh;
+    z-index: 0;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    -webkit-align-content: flex-start;
+    -ms-flex-line-pack: start;
+    align-content: flex-start;
+    padding: 0vh;
+    overflow: auto;
+    text-align: center;
+    -webkit-transition: opacity 0.75s;
+    transition: opacity 0.75s;
+  }
+  
+  .grid1 .grid-item1 {
+    width: 51vh;
+    height: 51vh;
+    padding: 0vh;
+    margin-top: 0vh;
+    opacity: 0.75;
+    -webkit-transition: opacity 0.5s;
+    transition: opacity 0.5s;
+  }
+  
+  .grid1 .grid-item1:hover {
+    opacity: 1;
+  }
+  @media screen and (max-width: 1024px) {
+    .grid1 .grid-item1 {
+      width: 80%;
+    }
+  }
+  @media screen and (max-width: 680px) {
+    .grid1 .grid-item1 {
+      width: 100%;
+    }
+  }
+ 
+  .img1 {
+    margin-left:50%;
+    margin-top: 6%;
+    width: 40vh;
+    height: 40vh;
+    border-radius: 2vh;
+    border: 4px solid #A27c5e;
+  }
