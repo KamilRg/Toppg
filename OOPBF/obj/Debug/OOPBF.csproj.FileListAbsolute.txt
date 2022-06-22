@@ -1,0 +1,8 @@
+C:\Users\tudro\Desktop\555\OOPBF\bin\Debug\OOPBF.exe.config
+C:\Users\tudro\Desktop\555\OOPBF\bin\Debug\OOPBF.exe
+C:\Users\tudro\Desktop\555\OOPBF\bin\Debug\OOPBF.pdb
+C:\Users\tudro\Desktop\555\OOPBF\obj\Debug\OOPBF.csproj.AssemblyReference.cache
+C:\Users\tudro\Desktop\555\OOPBF\obj\Debug\OOPBF.csproj.SuggestedBindingRedirects.cache
+C:\Users\tudro\Desktop\555\OOPBF\obj\Debug\OOPBF.csproj.CoreCompileInputs.cache
+C:\Users\tudro\Desktop\555\OOPBF\obj\Debug\OOPBF.exe
+C:\Users\tudro\Desktop\555\OOPBF\obj\Debug\OOPBF.pdb
