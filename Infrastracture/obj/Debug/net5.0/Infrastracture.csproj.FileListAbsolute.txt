@@ -1,0 +1,17 @@
+C:\Users\tudro\Desktop\Trimit\PizzaBlogger\Infrastracture\bin\Debug\net5.0\Infrastracture.deps.json
+C:\Users\tudro\Desktop\Trimit\PizzaBlogger\Infrastracture\bin\Debug\net5.0\Infrastracture.dll
+C:\Users\tudro\Desktop\Trimit\PizzaBlogger\Infrastracture\bin\Debug\net5.0\Infrastracture.pdb
+C:\Users\tudro\Desktop\Trimit\PizzaBlogger\Infrastracture\bin\Debug\net5.0\Application.dll
+C:\Users\tudro\Desktop\Trimit\PizzaBlogger\Infrastracture\bin\Debug\net5.0\Domain.dll
+C:\Users\tudro\Desktop\Trimit\PizzaBlogger\Infrastracture\bin\Debug\net5.0\Application.pdb
+C:\Users\tudro\Desktop\Trimit\PizzaBlogger\Infrastracture\bin\Debug\net5.0\Domain.pdb
+C:\Users\tudro\Desktop\Trimit\PizzaBlogger\Infrastracture\obj\Debug\net5.0\Infrastracture.csproj.AssemblyReference.cache
+C:\Users\tudro\Desktop\Trimit\PizzaBlogger\Infrastracture\obj\Debug\net5.0\Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tudro\Desktop\Trimit\PizzaBlogger\Infrastracture\obj\Debug\net5.0\Infrastracture.AssemblyInfoInputs.cache
+C:\Users\tudro\Desktop\Trimit\PizzaBlogger\Infrastracture\obj\Debug\net5.0\Infrastracture.AssemblyInfo.cs
+C:\Users\tudro\Desktop\Trimit\PizzaBlogger\Infrastracture\obj\Debug\net5.0\Infrastracture.csproj.CoreCompileInputs.cache
+C:\Users\tudro\Desktop\Trimit\PizzaBlogger\Infrastracture\obj\Debug\net5.0\Infrastracture.csproj.CopyComplete
+C:\Users\tudro\Desktop\Trimit\PizzaBlogger\Infrastracture\obj\Debug\net5.0\Infrastracture.dll
+C:\Users\tudro\Desktop\Trimit\PizzaBlogger\Infrastracture\obj\Debug\net5.0\refint\Infrastracture.dll
+C:\Users\tudro\Desktop\Trimit\PizzaBlogger\Infrastracture\obj\Debug\net5.0\Infrastracture.pdb
+C:\Users\tudro\Desktop\Trimit\PizzaBlogger\Infrastracture\obj\Debug\net5.0\ref\Infrastracture.dll
